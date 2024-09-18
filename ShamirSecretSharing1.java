@@ -38,8 +38,8 @@ public class ShamirSecretSharing1 {
 
     public static void main(String[] args) {
         // Replace these file paths with the paths to your JSON files
-        String filePath1 = "/Users/mohaseen/Desktop/accenture/testcase1.json";
-        String filePath2 = "/Users/mohaseen/Downloads/testcase2.json";
+        String filePath1 = "<PATH_TO_THE_FILE>/testcase1.json";
+        String filePath2 = "<PATH_TO_THE_FILE>/testcase2.json";
 
         System.out.println("First Test Case:");
         processTestCase(filePath1);
